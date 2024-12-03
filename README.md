@@ -1,2 +1,7 @@
-# AdventOfCode2023
-About the Advent Of Code 2023
+# AdventOfCode
+
+Dépôt de l’[Avant du code](https://adventofcode.com/ "Advent of Code").
+On y trouve les solutions de chaque année.
+
+Les fichiers dans `inputs/` contiennent les données initiales.
+Les fichiers dans `stars/` contiennent les solutions.
